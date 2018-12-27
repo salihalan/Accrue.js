@@ -3,7 +3,7 @@
  * http://accruejs.com
  * Author: James Pederson (jpederson.com)
  * Licensed under the MIT, GPL licenses.
- * Version: 1.1.0
+ 
  */
 
 ;(function( $, window, document, undefined ){
